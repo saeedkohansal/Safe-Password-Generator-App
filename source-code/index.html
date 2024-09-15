@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <title>Safe Password Generator</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/animate.min.css">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+</head>
+
+<body class="bg-color-animation">
+  <div class="main">
+    <span id="close-app" class="animate__animated animate__flip animate__slower">
+      <i class="bi bi-x-circle"></i>
+    </span>
+    <h1 class="animate__animated animate__slideInDown animate__slower">
+      <img id="logo" src="assets/icon/logo/256.png">
+      Safe Password Generator
+      <span id="powered-by">
+        <i class="bi bi-code-slash middle-icon"></i>
+        Author: Saeed Kohansal (@gilgeekify)
+      </span>
+      <span id="inspect-source-code">
+        <i class="bi bi-terminal middle-icon"></i>
+        Inspect source code
+      </span>
+    </h1>
+    <div class="app">
+      <input type="text" id="result" class="animate__animated animate__flash animate__slower" placeholder="----------------" readonly>
+      <div class="animate__animated animate__slideInLeft animate__slower">
+        <hr>
+        <h2><i class="bi bi-shield-lock-fill"></i> Options</h2>
+        <div class="row">
+          <label>
+            <input type="checkbox" id="uppercase-option" checked>
+            <span>Uppercase</span>
+          </label>
+          <label>
+            <input type="checkbox" id="lowercase-option" checked>
+            <span>Lowercase</span>
+          </label>
+          <label>
+            <input type="checkbox" id="numbers-option" checked>
+            <span>Numbers</span>
+          </label>
+          <label>
+            <input type="checkbox" id="symbols-option" checked>
+            <span>Symbols</span>
+          </label>
+        </div>
+        <hr>
+      </div>
+      <div class="animate__animated animate__slideInRight animate__slower">
+        <h2><i class="bi bi-key-fill"></i> Password Length</h2>
+        <div class="row">
+          <input type="number" id="password-length" min="1" max="256" value="16">
+        </div>
+      </div>
+      <div class="generate-btn-row">
+        <span id="generate-btn" class="animate__animated animate__slideInUp animate__slower">
+          <i class="bi bi-magic"></i> <i class="bi bi-clipboard-check"></i> Generate & Copy
+        </span>
+      </div>
+    </div>
+  </div>
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/renderer.js"></script>
+</body>
+
+</html>
