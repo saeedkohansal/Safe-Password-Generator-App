@@ -1,25 +1,21 @@
-# PHP Session Full Tutorial
+# Safe Password Generator Electron.js App
 
-_PHP Sessions Explained: A Complete Tutorial on Using PHP Sessions_
+_Ultimate Guide to Building Desktop Apps with Electron.js | Free Tools_
 
-![YouTube Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/PHP%20Sessions%20Explained%20-%20A%20Complete%20Tutorial%20on%20Using%20PHP%20Sessions.png "PHP Session Full Tutorial")
+![YouTube Thumbnail](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/YouTube-Thumbnail.png "PHP Session Full Tutorial")
 
-This video demonstrates a complete tutorial on PHP session. A session is a way to store and manage user-specific information across requests. It involves assigning a unique ID to each client and storing data on the server. This maintains state for users, such as login status or shopping cart contents. In programming, it refers to a period of interaction between a user and a system, commonly used in web development for managing user data across requests.
+Learn how to build cross-platform desktop applications using Electron.js, Node.js, and JavaScript with this ultimate guide. Discover free tools and resources to help you get started! We’ll cover packaging your app with Electron Packager and npm, creating one-click installers with Electron Installer, and making a portable version with Enigma Virtual Box.
 
 ## Video Tutorial [ How To Use PHP Sessions ]
-***[https://youtu.be/b-lS5ula1bc](https://youtu.be/b-lS5ula1bc)***
+***[https://youtu.be/cdGW4sflrkQ](https://youtu.be/cdGW4sflrkQ)***
 
  
 
 # PHP Session Explanation
 
-![What Is Session](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/What%20Is%20Session.png "What Is Session?")
+![What Is Session](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Demo.png "What Is Session?")
 
-![How Session Works](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/How%20Session%20Works.png "How Session Works")
-
-![PHP Session Explanation](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/PHP%20Session%20Explanation.png "PHP Session Explanation")
-
- 
+ 
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
