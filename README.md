@@ -1,4 +1,5 @@
 # Safe Password Generator Electron.js App
+
 _Ultimate Guide to Building Desktop Apps with Electron.js | Free Tools_
 
 ![YouTube Thumbnail](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/YouTube-Thumbnail.png "Safe Password Generator Application")
@@ -11,12 +12,15 @@ Learn how to build cross-platform desktop applications using Electron.js, Node.j
  
 
 # Application Demo
+
 ![SPG App Demo](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Demo.png "SPG App Demo")
 
 # Chrome DevTools
+
 ![SPG App Chrome DevTools](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-DevTools.png "SPG App Chrome DevTools")
 
 # App Size Comparison
+
 ![SPG App Size Comparison](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Size-Comparison.png "SPG App Size Comparison")
 
  
