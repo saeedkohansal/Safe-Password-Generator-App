@@ -15,10 +15,10 @@ Learn how to build cross-platform desktop applications using Electron.js, Node.j
 ![SPG App Demo](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Demo.png "SPG App Demo")
 
 # Chrome DevTools
-![SPG App Demo](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-DevTools.png "SPG App Chrome DevTools")
+![SPG App Chrome DevTools](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-DevTools.png "SPG App Chrome DevTools")
 
 # App Size Comparison
-![SPG App Demo](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Size-Comparison.png "SPG App Size Comparison")
+![SPG App Size Comparison](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Size-Comparison.png "SPG App Size Comparison")
 
 
  
