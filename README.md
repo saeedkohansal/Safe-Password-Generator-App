@@ -2,7 +2,7 @@
 
 _Ultimate Guide to Building Desktop Apps with Electron.js | Free Tools_
 
-![YouTube Thumbnail](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/YouTube-Thumbnail.png "PHP Session Full Tutorial")
+![YouTube Thumbnail](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/YouTube-Thumbnail.png "SPG Application")
 
 Learn how to build cross-platform desktop applications using Electron.js, Node.js, and JavaScript with this ultimate guide. Discover free tools and resources to help you get started! We’ll cover packaging your app with Electron Packager and npm, creating one-click installers with Electron Installer, and making a portable version with Enigma Virtual Box.
 
