@@ -15,7 +15,7 @@ Learn how to build cross-platform desktop applications using Electron.js, Node.j
 
 ![What Is Session](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Demo.png "What Is Session?")
 
- 
+ 
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
