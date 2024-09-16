@@ -14,11 +14,11 @@ Learn how to build cross-platform desktop applications using Electron.js, Node.j
 
 ## ⬇️ Download Safe Password Generator App ##
 
-🔗 Web App Version: https://github.com/saeedkohansal/Safe-Password-Generator-App
+**🔗 Web App Version:** ***https://github.com/saeedkohansal/Safe-Password-Generator-App***
 
-🔗 Installer Version: https://drive.google.com/file/d/1q0YjZsc3hgskzTC32UJ37by5kfvPi7N8/view?usp=sharing
+**🔗 Installer Version:** ***https://drive.google.com/file/d/1q0YjZsc3hgskzTC32UJ37by5kfvPi7N8/view?usp=sharing***
 
-🔗 Portable Version: https://drive.google.com/file/d/1qFgA_-1bKkT8yBI6F2h1Yc3RaPfLTB7w/view?usp=sharing
+**🔗 Portable Version:** ***https://drive.google.com/file/d/1qFgA_-1bKkT8yBI6F2h1Yc3RaPfLTB7w/view?usp=sharing***
 
  
 
