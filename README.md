@@ -14,7 +14,7 @@ Learn how to build cross-platform desktop applications using Electron.js, Node.j
 
 ## 🔴 SPG App Live Demo ##
 
-🔗 *** https://saeedkohansal.github.io/Safe-Password-Generator-App/source-code/***
+🔗 ***https://saeedkohansal.github.io/Safe-Password-Generator-App/source-code/***
 
  
 
